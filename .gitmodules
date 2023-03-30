@@ -1,0 +1,3 @@
+[submodule "criss_task1_submodule"]
+	path = criss_task1_submodule
+	url = https://github.com/Jash-Karani/criss_task1_submodule.git
